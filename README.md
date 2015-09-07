@@ -5,3 +5,4 @@ http://thejackalofjavascript.com/architecting-a-restful-node-js-app/
 http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
 http://scottksmith.com/blog/2014/07/02/beer-locker-building-a-restful-api-with-node-oauth2-server/
 https://stormpath.com/blog/token-auth-spa/
+https://stormpath.com/blog/how-to-write-middleware-for-express-apps/
