@@ -6,3 +6,4 @@ http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nod
 http://scottksmith.com/blog/2014/07/02/beer-locker-building-a-restful-api-with-node-oauth2-server/
 https://stormpath.com/blog/token-auth-spa/
 https://stormpath.com/blog/how-to-write-middleware-for-express-apps/
+https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/
