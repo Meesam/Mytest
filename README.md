@@ -9,3 +9,4 @@ https://stormpath.com/blog/how-to-write-middleware-for-express-apps/
 https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/
 https://github.com/auth0/angular-token-auth/blob/master/auth.client.js
 https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/
+http://www.sitepoint.com/using-json-web-tokens-node-js/
